@@ -32,8 +32,10 @@ I'm a full stack developer with a strong foundation in Java, pursuing a Masterâ€
 <p align="center" ><a href="http://www.github.com/Amine-H-Filali"><img src="https://github-readme-stats.vercel.app/api?username=Amine-H-Filali&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amine-H-Filali's GitHub stats" /></a></p>
 
 <br/>
-<p align="center"> 
-<a href="https://www.linkedin.com/in/amine-hmidani-filali-20083723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
-   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+<p align="center">
+   <a href="https://github.com/Amine-H-Filali/Amine-H-Filali/blob/main/CV_Hmidani_Filali_Amine.pdf" target="blank">
+      <img align="center" src="https://github.com/Amine-H-Filali/Amine-H-Filali/blob/main/resume-icon.svg" height="32" width="32" />
+      <span style="font-size:18px; margin-left:8px;">View My Resume</span>
+   </a> 
+   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
