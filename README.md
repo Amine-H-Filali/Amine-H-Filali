@@ -7,7 +7,7 @@ Full Stack Java Developer | Master's in Software Quality
 I'm a full stack developer with a strong foundation in Java, pursuing a Master’s in Software Quality. Skilled in backend and frontend development, I have experience with Java (Spring Boot, JEE), JavaScript, PHP, and databases like MySQL and MongoDB. My projects include building a streaming platform with CloudLink LLC, automating candidate selection using NLP at 3D Smart Factory, and developing a UML Diagrams Generator in Java.
 
 * 🌍  I'm based in Meknès
-* 🖥️  See my portfolio at [filalihmidaniamine.com](http://filalihmidaniamine.com)
+* 🖥️  See my portfolio at [filalihmidaniamine.github.io](https://filalihmidaniamine.github.io/ms-portfolio/)
 * ✉️  You can contact me at [filalihmidaniamine@gmail.com](mailto:filalihmidaniamine@gmail.com)
 
 ### Skills
